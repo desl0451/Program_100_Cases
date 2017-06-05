@@ -10,7 +10,7 @@ package demo.chapter01;
 //544444445
 //555555555
 
-public class Test1 {
+public class Test1Êä³ö¸´ÔÓÈı½ÇĞÎ {
 	public static void main(String[] args) {
 		for (int i = 1; i <= 9; i++) {
 			if (i <= 5) {
